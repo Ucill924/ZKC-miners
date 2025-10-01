@@ -65,7 +65,7 @@ sudo ./scripts/setup.sh
 
 ## Install RustInstall Rust and add it to your PATH:
 
-
+```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 ```
